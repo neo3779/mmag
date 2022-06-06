@@ -1,0 +1,156 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6BA47E53-190D-4154-9F68-04537E1178AD/f:EventFinder.xaml" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="NavigationService" priority="63" />
+      <Item value="DateTime`0" priority="191" />
+      <Item value="new" priority="384" />
+      <Item value="DateTime" priority="28" />
+      <Item value="TimeSpan`0" priority="95" />
+      <Item value="countdown" priority="191" />
+      <Item value="TimeSpan" priority="58" />
+      <Item value="private" priority="31" />
+      <Item value="void" priority="31" />
+      <Item value="time" priority="32" />
+      <Item value="timeSpan" priority="255" />
+      <Item value="Uri" priority="28" />
+      <Item value="uriKind" priority="63" />
+      <Item value="UriKind`0" priority="31" />
+      <Item value="updateCountdown`0" priority="96" />
+      <Item value="do" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="ThreadStaticAttribute`0" priority="31" />
+      <Item value="System" priority="93" />
+      <Item value="Threading" priority="26" />
+      <Item value="Thread`0" priority="127" />
+      <Item value="public" priority="31" />
+      <Item value="Thread" priority="57" />
+      <Item value="ThreadStart`0" priority="31" />
+      <Item value="StartupEventArgs`0" priority="31" />
+      <Item value="ThreadStart" priority="58" />
+      <Item value="static" priority="31" />
+      <Item value="thickerStart" priority="28" />
+      <Item value="ticker" priority="31" />
+      <Item value="string" priority="31" />
+      <Item value="text" priority="95" />
+      <Item value="Dispatcher" priority="31" />
+      <Item value="delegate" priority="32" />
+      <Item value="dt" priority="31" />
+      <Item value="Environment`0" priority="63" />
+      <Item value="if" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="VisualTreeHelper`0" priority="31" />
+      <Item value="listBox1" priority="31" />
+      <Item value="image" priority="63" />
+      <Item value="stream" priority="63" />
+      <Item value="picture" priority="63" />
+      <Item value="IsolatedStorageFile`0" priority="31" />
+      <Item value="IsolatedStorageFile" priority="28" />
+      <Item value="using" priority="30" />
+      <Item value="Xml" priority="53" />
+      <Item value="XmlReader`0" priority="26" />
+      <Item value="StringReader" priority="29" />
+      <Item value="XmlDocument" priority="28" />
+      <Item value="xmlString" priority="31" />
+      <Item value="this" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="int" priority="31" />
+      <Item value="i" priority="63" />
+      <Item value="listOfDates" priority="31" />
+      <Item value="date" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationService">
+      <Item value="GoBack`0" priority="26" />
+      <Item value="Navigate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Subtract`0" priority="26" />
+      <Item value="Add`0" priority="53" />
+      <Item value="AddDays`0" priority="27" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Days" priority="26" />
+      <Item value="Hours" priority="26" />
+      <Item value="Minutes" priority="26" />
+      <Item value="Seconds" priority="53" />
+      <Item value="TotalSeconds" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="RelativeOrAbsolute" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.DispatcherTimer">
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Items" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Imaging.BitmapImage">
+      <Item value="SetSource`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.IsolatedStorage.IsolatedStorageFile">
+      <Item value="GetUserStoreForApplication`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:London2012.GBfinderModel">
+      <Item value="Items" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

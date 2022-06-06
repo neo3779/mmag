@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6BA47E53-190D-4154-9F68-04537E1178AD" ModuleId="London2012" />
+  <Module PersistentId="Microsoft.Phone, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e" ModuleId="Microsoft.Phone" />
+  <Module PersistentId="71A41463-066F-444A-B774-5FB036C913A0" ModuleId="Phone.Controls" />
+</Modules>

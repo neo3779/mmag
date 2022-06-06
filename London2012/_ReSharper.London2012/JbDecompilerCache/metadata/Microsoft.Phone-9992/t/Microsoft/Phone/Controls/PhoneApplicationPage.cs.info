@@ -1,0 +1,20 @@
+﻿Code version: 6.0.2202.688
+Assembly name Microsoft.Phone, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e mvid {f9aeda98-2879-4ed3-995f-d7bb1a6bba7c}
+* ref mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {aaa06add-dedb-4be4-8b0f-8d5a1fc6a6b2}
+* ref System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {cf8fcde2-6fd3-45ca-a72e-feee6e6b40be}
+* ref System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {fc361153-916e-4820-a397-fda43751b11f}
+* ref Microsoft.Phone.Interop, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e
+  mvid {04012337-2144-4437-9560-e02a9a8719b4}
+* ref System.Net, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {48b89ad1-0808-479c-9fad-b937b24a4675}
+* ref System.Device, Version=2.0.5.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e
+  mvid {7c45bcb2-6dc6-f550-95e5-ff771b032fd7}
+* ref System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {396361af-6897-42c1-aa90-a8ed766e293c}
+* ref System.Runtime.Serialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {619dd84e-2684-440e-8b85-293e35c04627}
+* ref System.Xml, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {bea18cf9-b3d9-46b4-9cda-bc4d2d2f00eb}

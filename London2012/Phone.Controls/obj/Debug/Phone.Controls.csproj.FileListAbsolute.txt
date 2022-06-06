@@ -1,0 +1,24 @@
+c:\Work\ScrollableTextBoxTest\Phone.Controls\Bin\Debug\Phone.Controls.dll
+c:\Work\ScrollableTextBoxTest\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+c:\Work\ScrollableTextBoxTest\Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+c:\Work\ScrollableTextBoxTest\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+c:\Work\ScrollableTextBoxTest\Phone.Controls\obj\Debug\Phone.Controls.dll
+c:\Work\ScrollableTextBoxTest\Phone.Controls\obj\Debug\Phone.Controls.pdb
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\Bin\Debug\Phone.Controls.dll
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\obj\Debug\Phone.Controls.dll
+C:\Users\Alex J Davison\Downloads\ScrollableTextBlockR5\Phone.Controls\obj\Debug\Phone.Controls.pdb
+C:\Users\simon\Dropbox\London2012\Phone.Controls\Bin\Debug\Phone.Controls.dll
+C:\Users\simon\Dropbox\London2012\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+C:\Users\simon\Dropbox\London2012\Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\simon\Dropbox\London2012\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+C:\Users\simon\Dropbox\London2012\Phone.Controls\obj\Debug\Phone.Controls.dll
+C:\Users\simon\Dropbox\London2012\Phone.Controls\obj\Debug\Phone.Controls.pdb
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\Bin\Debug\Phone.Controls.dll
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\Bin\Debug\Phone.Controls.pdb
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\obj\Debug\Phone.Controls.g.resources
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\obj\Debug\Phone.Controls.dll
+C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 2\Mobile Multimedia and Gaming\London2012\Phone.Controls\obj\Debug\Phone.Controls.pdb

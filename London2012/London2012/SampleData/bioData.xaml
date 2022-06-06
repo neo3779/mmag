@@ -1,0 +1,11 @@
+﻿<London2012:GBfinderModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:London2012" xmlns:London2012="clr-namespace:London2012"
+    SampleProperty="Sample Text Property Value">
+
+    <London2012:GBfinderModel.Items>
+    
+    </London2012:GBfinderModel.Items>
+
+</London2012:GBfinderModel>

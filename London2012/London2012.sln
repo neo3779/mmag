@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "London2012", "London2012\London2012.csproj", "{6BA47E53-190D-4154-9F68-04537E1178AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone.Controls", "Phone.Controls\Phone.Controls.csproj", "{71A41463-066F-444A-B774-5FB036C913A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA47E53-190D-4154-9F68-04537E1178AD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{71A41463-066F-444A-B774-5FB036C913A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A41463-066F-444A-B774-5FB036C913A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A41463-066F-444A-B774-5FB036C913A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A41463-066F-444A-B774-5FB036C913A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
